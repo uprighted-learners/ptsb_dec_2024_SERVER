@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Static File from our Express Server</title>
+</head>
+<body>
+    <h1>User Registration</h1>
+    <form action="/submit-form" method="post">
+        <label for="username">Username</label>
+        <input id="username" type="text" required name="username" />
+
+        <label for="email">Email</label>
+        <input id="email" type="text" required name="email"  />
+
+        <label for="password">Password</label>
+        <input id="password" type="text" required name="password"  />
+
+        <button type="submit">Register</button>
+    </form>
+</body>
+</html>
