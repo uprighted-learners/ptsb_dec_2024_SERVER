@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "item": "milk",
+    "price": 0.50,
+    "emoji": "🥛"
+  },
+  {
+    "id": 2,
+    "item": "bread",
+    "price": 1.99,
+    "emoji": "🍞"
+  },
+  {
+    "id": 3,
+    "item": "hamburger",
+    "price": 1.99,
+    "emoji": "🍔"
+  },
+  {
+    "id": 4,
+    "item": "coffee",
+    "price": 6.59,
+    "emoji": "☕"
+  },
+  {
+    "id": 5,
+    "item": "cheese",
+    "price": 2.50,
+    "emoji": "🧀"
+  },
+  {
+    "id": 6,
+    "item": "dog food",
+    "price": 5.50,
+    "emoji": "🐕"
+  }
+]
